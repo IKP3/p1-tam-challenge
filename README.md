@@ -6,9 +6,9 @@ This project demonstrates how to create a restricted Kubernetes user using clien
 
 - Minikube cluster running
 - kubectl installed and configured
-- OpenSSL installed
+- Docker installed and running
 
-> Note: The script currently assumes the cluster name is "minikube".
+> This project was tested using Minikube with the Docker driver.
 
 ## Quick Start
 
