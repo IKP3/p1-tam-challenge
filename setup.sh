@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 kubectl apply -f k8s/namespace.yaml
 
 kubectl apply -f k8s/rbac.yaml
